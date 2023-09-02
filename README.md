@@ -1,2 +1,1 @@
-# DreamCatStudios
-This is the DreamCat Studios
+#this is the repo Owned by dreamcat studios
